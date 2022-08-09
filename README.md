@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaBojja
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning digital image processing and machine learning
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Digital Image Processing,and  Computer vision. 
 - 💞️ I’m looking to collaborate on applications of data science in sustainable energy sector
 - 📫 How to reach me on prasannakumarbojja11@gmail.com
 
